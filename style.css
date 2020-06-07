@@ -142,7 +142,12 @@ canvas{
 
 @media screen and (width:375px) and (height:667px) {
     canvas {
-        margin-left: 22%;
+        margin-left: 10%;
+   }
+    
+    #start {
+    padding-top: 3px;
+    padding-left: 10px;
    }
   
     #word {
@@ -150,16 +155,16 @@ canvas{
     }
 
     #lifeScore {
-         margin-left: 36%;
+         margin-left: 33%;
          margin-top: 53px;
     }
     
     #sendHere {
-        margin-left: 23%;
+        margin-left: 20%;
     }
 
     #startButton {
-        margin-left: 38%;
+        margin-left: 35%;
         border: none;
         margin-top: 81%;
     }
