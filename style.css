@@ -142,12 +142,12 @@ canvas{
 
 @media screen and (min-width: 375px) and (max-height:667px) {
     canvas {
-        margin-left: 16%;
+        margin-left: 17%;
    }
     
     #start {
     padding-top: 3px;
-    padding-left: 13px;
+    padding-left: 14px;
    }
   
     #word {
