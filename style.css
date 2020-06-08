@@ -233,6 +233,11 @@ canvas{
         border: none;
         margin-top: 81%;
     }
+    
+     #start {
+    padding-top: 3px;
+    padding-left: 14px;
+   }
 }
 
 @media screen and (width:768px) and (height:1024px) {
