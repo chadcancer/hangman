@@ -194,17 +194,22 @@ canvas{
     #sendHere {
         margin-left: 27%;
     }
+    
+     #start {
+    padding-top: 3px;
+    padding-left: 14px;
+   }
 }
 
 
 @media screen and (width:375px) and (height:812px){
     #startButton {
-        margin-left: 38%;
+        margin-left: 17%;
         margin-top: 88%;
     }
     
     canvas {
-        margin-left: 22%;
+        margin-left: %;
         margin-top: 28%;
     }
 
@@ -214,13 +219,19 @@ canvas{
     
     
     #lifeScore {
-         margin-left: 36%;
+         margin-left: 34%;
          margin-top: 47px;
     }
 
     #sendHere {
-        margin-left: 26%;
+        margin-left: 21%;
         margin-top: 65px;
+    }
+    
+    #startButton {
+        margin-left: 35%;
+        border: none;
+        margin-top: 81%;
     }
 }
 
